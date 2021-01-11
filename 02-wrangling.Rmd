@@ -5,7 +5,7 @@
 
 <!-- Add in other join diagrams, like the one used for for inner join. -->
 
-<!-- Start joins with left_join, since it is most popular. -->
+<!-- Start joins with left_join, since it is most popular. alex 2nd test-->
 
 *Data science is data cleaning.*
 
