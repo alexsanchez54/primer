@@ -219,7 +219,7 @@ This file is your private project file and usually you don't want this uploaded 
 knitr::include_graphics("other/images/rproj.png")
 ```
 
-Save the `.gitignore` file and you should see the `productivity.Rproj` file disappear from your Git tab in the top right window. If you don't see any changes, click on the refresh button in the upper left. 
+Save the `.gitignore` file and you should see the `productivity.Rproj` file disappear from your Git tab in the top right window. If you don't see any changes, click on the refresh button in the upper right. 
 
 The symbols in the Git tab are part a "conversation" between you and Git. The "?" is Git's way of saying: "There is a new file here. What do you want to do with it?" Adding a line to the `.gitignore` is your way of replying "Ignore that file."
 
