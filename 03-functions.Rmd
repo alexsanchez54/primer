@@ -563,7 +563,7 @@ The introduction of the chapter was centered on a discussion of lists and list-c
 
 ### Custom functions
 
-This chapter, we focused on functions. 
+This chapter, we focused on functions. <!-- Not sure why but this section doesn't show up as bullet points in the Primer -->
 
 In particular, when building a function, you want to remember these key lessons:
 - Optimize usefulness by adding more formal arguments when needed. A function that only gives an option for `n` may not be as helpful as a function that allows us to enter options for a data set, variable, and n value. 
@@ -586,7 +586,7 @@ In particular, when building a function, you want to remember these key lessons:
 
 
 
-### Other important information
+### Other important information <!-- The info below was already covered above -->
 - The median is often a more stable measure than the mean. 
 - When starting a function, remember that smaller steps are easier than trying to build everything in one motion. In general: start by writing the body, test the body in a basic function, and then add formal arguments. 
 - Use double curly braces around `var`s, since R does not know how to interpret variables when passed in an argument. The double curly braces tell R that `var` is a variable in the tibble created by our function.
